@@ -1,5 +1,12 @@
 # The Capstone Project of the Meta Front End Developer Professional Certificate on Coursera
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Little Lemon Booking Website](#little-lemon-booking-website)
+- [Folder Structure](#folder-structure)
+- [](#)
+
 ---
 
 # Little Lemon Booking Website
@@ -87,6 +94,9 @@ Here are some screeenshots of the application showcasing the Booking functionali
     ├── index.js
     ├── reportWebVitals.js
     ├── setupTests.js
+└── package-lock.json
+└── package.json
+└── README.md
 
 ```
 
