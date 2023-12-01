@@ -5,7 +5,7 @@
 - [Table of Contents](#table-of-contents)
 - [Little Lemon Booking Website](#little-lemon-booking-website)
 - [Folder Structure](#folder-structure)
-- [](#)
+- [Getting Started with Create React App](#getting-started-with-create-react-app)
 
 ---
 
