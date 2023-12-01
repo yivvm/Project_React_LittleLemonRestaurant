@@ -1,5 +1,10 @@
 # The Capstone Project of the Meta Front End Developer Professional Certificate on Coursera
 
+<h1 align="center">Little Lemon Restaurant</h1>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
