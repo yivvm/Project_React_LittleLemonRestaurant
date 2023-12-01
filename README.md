@@ -1,5 +1,7 @@
 # The Capstone Project of the Meta Front End Developer Professional Certificate on Coursera
 
+---
+
 # Little Lemon Booking Website
 
 ## Project Description
@@ -38,7 +40,57 @@ Here are some screeenshots of the application showcasing the Booking functionali
 - Login Page
 ![img6](https://github.com/yivvm/Project_React_LittleLemonRestaurant/assets/134717898/0a8a0d98-8845-469e-b5d8-1c0980f91873)
 
+----
+# Folder Structure
 
+**The directory tree** (only directories and excluding `node_modules` ):
+
+```s
+├── public
+├── Screenshots
+└── src
+    ├── assets
+    ├── components
+    │   ├── pages
+    │   │   └── About.js
+    │   │   └── Booking.js
+    │   │   └── BookingConfirmation.js
+    │   │   └── HomePage.js
+    │   │   └── Login.js
+    │   │   └── Order.js
+    │   ├── sections
+    │   │   └── aboutPages
+    │   │       └── Heading.js
+    │   │   └── headingPages
+    │   │       └── About.js
+    │   │       └── Heading.js
+    │   │       └── Specials.js
+    │   │       └── SpecialsDetails.js
+    │   │       └── SpecialsItems.js
+    │   │   └── loginPages
+    │   │       └── Login.js
+    │   │   └── orderPages
+    │   │       └── Heading.js
+    │   │   └── reservePages
+    │   │       └── BookingForm.js
+    │   │       └── Heading.js
+    │   ├── Footer.js
+    │   ├── Nav.js
+    │   ├── Navbar.js
+    │   ├── Navigation.js
+    │   ├── Routing.js
+    ├── App.css
+    ├── App.js
+    ├── App.test.js
+    ├── bookingAPI.js
+    ├── index.css
+    ├── index.js
+    ├── reportWebVitals.js
+    ├── setupTests.js
+
+```
+
+----
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
