@@ -20,16 +20,22 @@ This website showcased implementing a booking application on the Little Lemon We
 ## Screenshots
 Here are some screeenshots of the application showcasing the Booking functionality.
 
+- Home Page
 ![img1](https://github.com/yivvm/Project_React_LittleLemonRestaurant/assets/134717898/97dcc59a-c818-482c-b0e1-8d75eb4be474)
 
+- Booking Page
 ![img2](https://github.com/yivvm/Project_React_LittleLemonRestaurant/assets/134717898/f37fbe64-012d-43d9-b770-a69c5f9c3e4a)
 
+- Booking Confirmatioon Page
 ![img3](https://github.com/yivvm/Project_React_LittleLemonRestaurant/assets/134717898/48b62edb-d2d0-4f01-845e-b8da86e8e42c)
 
+- About Page
 ![img4](https://github.com/yivvm/Project_React_LittleLemonRestaurant/assets/134717898/a3d896fd-aeae-44c0-bae7-e2337ee500f8)
 
+- Order Page
 ![img5](https://github.com/yivvm/Project_React_LittleLemonRestaurant/assets/134717898/4c197a3d-f5c2-47b5-9aa9-a4d98177a3e6)
 
+- Login Page
 ![img6](https://github.com/yivvm/Project_React_LittleLemonRestaurant/assets/134717898/0a8a0d98-8845-469e-b5d8-1c0980f91873)
 
 
